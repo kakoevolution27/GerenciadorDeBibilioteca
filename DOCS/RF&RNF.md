@@ -1,8 +1,3 @@
-Aqui está o guia de requisitos para o **BiblioTech**.
-
-Os **Requisitos Funcionais (RF)** definem *o que* o sistema deve fazer (as ações do usuário). Já os **Requisitos Não Funcionais (RNF)** definem *como* o sistema deve ser construído, forçando o uso dos fundamentos do C# que você quer praticar.
-
----
 
 ## 1. Requisitos Funcionais (O que o sistema faz)
 
