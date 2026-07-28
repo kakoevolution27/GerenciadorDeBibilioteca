@@ -6,4 +6,10 @@ public class User
 
     public BrazilAdressInfo AdressInfo;
     public List<int>? HoldingItemsId;
+
+    public User(string userName, BrazilAdressInfo adressInfo)
+    {
+        UserName = userName;
+        AdressInfo = adressInfo;
+    }
 }
